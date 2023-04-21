@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/katja-pollmann/)
+
+
 <!--
 **kpo18/kpo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
